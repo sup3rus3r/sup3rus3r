@@ -83,31 +83,9 @@ A collection of experimental projects exploring:
 - AI infrastructure
 
 ---
-
-# Tech Stack
-
-**Languages**
-
-Python • TypeScript • JavaScript
-
-**Frameworks**
-
-FastAPI • Next.js • React
-
-**AI / ML**
-
-TensorFlow • LLM tooling • AI orchestration
-
-**Infrastructure**
-
-Docker • Linux • Cloud services
-
-**Databases**
-
-MongoDB • Vector databases
-
-
-....and more
+<a href="https://www.mokhan.co.za">
+<img src="https://img.shields.io/badge/Learn more about me-website-FF6B35?style=for-the-badge"/>
+</a>
 
 ---
 
