@@ -51,13 +51,6 @@
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
 
-<a href="https://en.wikipedia.org/wiki/SQL">
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</a>
-
-<a href="https://restfulapi.net">
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
-</a>
 </p>
 <p>
 <a href="https://www.tensorflow.org">
