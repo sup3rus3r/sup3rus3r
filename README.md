@@ -85,7 +85,7 @@ A collection of experimental projects exploring:
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 **Languages**
 
