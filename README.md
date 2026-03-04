@@ -134,6 +134,7 @@ A collection of experimental projects exploring:
 - AI infrastructure
 
 ---
+
 <a href="https://www.mokhan.co.za">
 <img src="https://img.shields.io/badge/Learn more about me-website-FF6B35?style=for-the-badge"/>
 </a>
@@ -145,6 +146,7 @@ A collection of experimental projects exploring:
 <a href="https://github.com/sup3rus3r">
   <img src="https://img.shields.io/github/stars/sup3rus3r?style=for-the-badge&logo=github&label=Total%20Stars"/>
 </a>
+
 ---
 
 <div align="center">
