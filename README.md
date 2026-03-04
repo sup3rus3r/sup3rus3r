@@ -32,7 +32,6 @@ I'm an independent developer building **AI systems, automation platforms, and de
 
 I focus on creating **real-world production systems** that combine machine learning, modern web architecture, and scalable backend infrastructure.
 
-📍 Cape Town, South Africa
 
 ### What I Build
 
