@@ -4,7 +4,7 @@
 
 <br/>
 
-### AI Systems Engineer · Full-Stack Developer · Open Source Builder
+### AI Systems Engineer · Full-Stack Developer · Open Source Contributor
 
 <br/>
 
